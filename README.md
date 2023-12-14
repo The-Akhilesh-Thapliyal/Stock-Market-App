@@ -2,7 +2,7 @@
 <h1 align="center">Stock Market App</h1>
 
 <p align="center">
-<img src="http://drive.google.com/uc?export=view&id=1OJlVoBC_v4zMIJO9rbJrvaeQqvqI-t6H">
+<img src="http://drive.google.com/uc?export=view&id=1qTw-_ukip6dPnBOKFQcvrBdfH3ZseZPe">
 </p>
 
 Effortlessly visualize and analyze a company's stock trends using this user-friendly Python app with Tkinter. Gain insights into historical performance over various timeframes for confident investment decisions.
